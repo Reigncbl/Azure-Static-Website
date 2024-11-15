@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Azure-Static-Website/static/css/main.ec7862f5.css",
+    "main.js": "/Azure-Static-Website/static/js/main.e686f645.js",
+    "index.html": "/Azure-Static-Website/index.html",
+    "main.ec7862f5.css.map": "/Azure-Static-Website/static/css/main.ec7862f5.css.map",
+    "main.e686f645.js.map": "/Azure-Static-Website/static/js/main.e686f645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7862f5.css",
+    "static/js/main.e686f645.js"
+  ]
+}
